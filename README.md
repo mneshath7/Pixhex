@@ -2,6 +2,7 @@
 Image authentication &amp; AI manipulation detection tool. Detect AI-generated images and photo manipulations using advanced signal processing.
 
 How It Works
+
 Pipeline Stages
 Raw Data Input: Load image as RGB numpy array
 Tiered Blur Cascade: Apply successive Gaussian filtering
