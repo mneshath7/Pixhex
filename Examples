@@ -1,0 +1,15 @@
+examples/
+├── test_images/
+│   ├── authentic/
+│   │   ├── real_photo_1.jpg
+│   │   ├── real_photo_2.jpg
+│   │   └── real_photo_3.jpg
+│   ├── manipulated/
+│   │   ├── photoshopped_1.jpg
+│   │   ├── deepfake_1.jpg
+│   │   └── ai_generated_1.jpg
+├── demo.ipynb              # Jupyter notebook showing it working
+├── results/
+│   ├── visualization_1.png # Show detection results
+│   └── metrics.txt         # True positive/false positive rates
+└── benchmark.py            # Reproducible test script
